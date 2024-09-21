@@ -1,5 +1,3 @@
-
-
 var crsr = document.querySelector("#cursor");
 var blur = document.querySelector("#cursor-blur");
 

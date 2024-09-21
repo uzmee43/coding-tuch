@@ -227,6 +227,45 @@
   }
 }
 
+#me{
+  margin: 0 auto;
+  padding: 80px;
+  width: 80%;
+  grid-row: auto;
+}
+fieldset{
+  
+  gap: 10px;
+  border: none;
+  background-color: rgb(58, 115, 140);
+  border-radius: 40px
+
+
+
+}
+legend ,p {
+
+  color: rgb(244, 237, 237);
+  border: none;
+  box-shadow: 4px 4px 4px 2px rgba(68, 50, 50, 0.6);
+  
+ 
+
+
+}
+span{
+  color: brown;
+  font-weight: bolder;
+  font-size: 30px;
+}
+#pro{
+  margin: 0 auto;
+  padding: 80px;
+  width: 80%;
+  grid-row: auto;
+
+}
+
 
 
 
